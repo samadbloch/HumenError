@@ -34,4 +34,4 @@ bash HumenError.sh
 ```
 
 ### Video Tutorial!
-Updating soon !
+https://www.youtube.com/watch?v=BMJRBL0C6cg
