@@ -1,4 +1,4 @@
-# ShellPhish v1.7
+# HumenError
 ## Author: github.com/samadbloch
 ## Credit For Some Code: github.com/thelinuxchoice
 ## IG: instagram.com/linux_choice
