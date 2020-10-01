@@ -4,7 +4,7 @@
 ## IG: instagram.com/linux_choice
 ## IG: instagram.com/im_malicious
 ## tt: twitter.com/Malicious_Coder
-### Don't copy this code without give us credits, nerd! 
+### Don't copy this code without giving us credits, nerd! 
 ### Instagram webpage made by Malicious (https://github.com/samadbloch)
 
 Phishing Tool for advance instagram copyright infringement attack 
