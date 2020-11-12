@@ -2,7 +2,7 @@
 ## Author: github.com/samadbloch
 ## Credit For Some Code: github.com/thelinuxchoice
 ## IG: instagram.com/linux_choice
-## IG: instagram.com/im_malicious
+## IG: instagram.com/samad_bl0ch
 ## tt: twitter.com/Malicious_Coder
 ### Don't copy this code without give us credits, nerd! 
 ### Instagram webpage made by Malicious (https://github.com/samadbloch)
